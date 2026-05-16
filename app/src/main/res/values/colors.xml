@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="rojo_principal">#C62828</color>
+    <color name="rojo_fondo">#FFEBEE</color>
+    <color name="rojo_secundario">#B71C1C</color>
+    <color name="rojo_oscuro">#7F0000</color>
+
+
+    <color name="amarillo_fondo">#FFF4D6</color>
+    <color name="guinda_gubernamental">#691C32</color>
+    <color name="guinda_oscuro">#4A0F22</color>
+
+    <color name="gris_oscuro">#2E2E2E</color>
+
+    <color name="blanco">#FFFFFF</color>
+    <color name="blanco_suave">#F8F9FA</color>
+
+    <color name="negro">#000000</color>
+
+
+    <color name="purple_200">#EF5350</color>
+    <color name="purple_500">#C62828</color>
+    <color name="purple_700">#7F0000</color>
+
+    <color name="teal_200">#FFCDD2</color>
+    <color name="teal_700">#B71C1C</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
